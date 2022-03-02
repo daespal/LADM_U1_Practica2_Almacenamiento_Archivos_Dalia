@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SuperMercado Las 3 Flores</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Las 3 Flores </string>
+    <string name="nav_header_subtitle">SuperMercado con todo lo de tu canasta basica</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Registrar</string>
+    <string name="menu_slideshow">Buscar/Actualizar</string>
+</resources>

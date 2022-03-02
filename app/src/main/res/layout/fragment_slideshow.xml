@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.slideshow.SlideshowFragment">
+
+    <EditText
+        android:id="@+id/nom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nombre"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="39dp"
+        tools:ignore="MissingConstraints"></EditText>
+
+    <EditText
+        android:id="@+id/detal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Detalles"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="141dp"
+        tools:ignore="MissingConstraints"></EditText>
+
+    <Button
+        android:id="@+id/buscar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BUSCAR"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="270dp"
+        tools:ignore="MissingConstraints"></Button>
+
+    <Button
+        android:id="@+id/actualizar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ACTUALIZAR"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="270dp"
+        tools:ignore="MissingConstraints"></Button>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
